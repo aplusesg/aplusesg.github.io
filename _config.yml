@@ -32,6 +32,16 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-coffeescript
+  - jekyll-paginate
+  - jekyll-default-layout
+  - jekyll-commonmark-ghpages
+  - jekyll-gist
+  - jekyll-github-metadata
+  - jekyll-relative-links 
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-titles-from-headings
 
 # Exclude from processing.
 # The following items will not be processed, by default.
