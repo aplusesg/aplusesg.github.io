@@ -4,6 +4,9 @@
 
 layout: homepage
 ---
-
+<div style="display: flex;">
+<div style="height:40px;"><img src="img/asus-logo.png" style="width:160px;"></div>
+<div style="height:40px;"><h1  style="align-items: center;">華碩專區</h1></div>
+</div>
 <h1>盤查教育訓練 Scope 1 </h1>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RfYY4aKxpfA?si=65ZQWXVT3Cb_S0Gu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
