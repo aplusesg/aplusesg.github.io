@@ -10,6 +10,3 @@ layout: homepage
 </div>
 <h1>盤查教育訓練 Scope 1 [Youtube]</h1>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hdfpxzgujfM?si=u26DeFJ6FG83JLEZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<h1>盤查教育訓練 Scope 1 [BillBill]</h1>
-<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=454129982&bvid=BV1G5411y7Lo&cid=1416884306&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
