@@ -21,7 +21,7 @@
 title: A⁺ESG
 email: service@arcare.com.tw
 description: >- # this means to ignore newlines until "baseurl:"
-  這是A⁺永續雲的線上文件中心.
+  A⁺ESG 線上文件中心.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
