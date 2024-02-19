@@ -13,23 +13,36 @@ layout: homepage
     <tr>
         <td>
             <h1>盤查教育訓練 Scope 1</h1>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/icwvKDt5dng?si=5w2XIvF2HsiIeBDs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/NK3U5MZCfRI?si=b_wPooNp7Wr0Vkpi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
             <h2>1. 如果無法正確播放以上影片請點擊以下連結下載或瀏覽</h2>
-            <h2><a href="https://www.asuswebstorage.com/navigate/a/#/s/B417567780C24F76B973E8C31CEFAE6BY?type=previewPageCover" target="_blank">盤查教育訓練 Scope 1 </a></h2>
+            <h2><a href="https://www.asuswebstorage.com/navigate/a/#/s/6E548CA4B8DE452F93168C9DBB1A21F3Y" target="_blank">盤查教育訓練 Scope 1 </a></h2>
             <h2>2. 簡報檔請點擊以下連結瀏覽或下載</h2>
-            <h2><a href="/upload/盤查教育訓練-Scope-1-中文-V2.pdf" target="_blank">盤查教育訓練 Scope 1 中文 V2</a></h2>
+            <h2><a href="/upload/盤查教育訓練-Scope-1-中文-V1.pdf" target="_blank">盤查教育訓練 Scope 1 中文 V1</a></h2>
 
         </td>
         <td>
             <h1>盤查教育訓練 Scope 2</h1>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/-n1Bf_ukAsE?si=j-pAyH_OiSaYFWqL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/_yKe9cQF5WY?si=jW3ZvGuCPJh2fOcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
             
             <h2>1. 如果無法正確播放以上影片請點擊以下連結下載或瀏覽</h2>
-            <h2><a href="https://www.asuswebstorage.com/navigate/a/#/s/7ECA4EB33CEF4B91876C72CF7FEC91BDY?type=previewPageCover" target="_blank">盤查教育訓練 Scope 2 </a></h2>
+            <h2><a href="https://www.asuswebstorage.com/navigate/a/#/s/81B295929A6D4B698E973C19A1628330Y" target="_blank">盤查教育訓練 Scope 2 </a></h2>
             <h2>2. 簡報檔請點擊以下連結瀏覽或下載</h2>
-            <h2><a href="/upload/盤查教育訓練-Scope-2-中文-V3.pdf" target="_blank">盤查教育訓練 Scope 2 中文 V3</a></h2>
+            <h2><a href="/upload/盤查教育訓練-Scope-2-中文-V1.pdf" target="_blank">盤查教育訓練 Scope 2 中文 V1</a></h2>
 
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <h1>盤查教育訓練 Scope 3 C1 採購商品與服務</h1>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/R7B6Ce94N14?si=iusGqsJfFqueN3oq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+            <h2>1. 如果無法正確播放以上影片請點擊以下連結下載或瀏覽</h2>
+            <h2><a href="https://www.asuswebstorage.com/navigate/a/#/s/9C37F24048C1423AB0F820EE09262ECBY" target="_blank">盤查教育訓練 Scope 3 C1 採購商品與服務</a></h2>
+            <h2>2. 簡報檔請點擊以下連結瀏覽或下載</h2>
+            <h2><a href="/upload/盤查教育訓練-Scope-3-C1-中文-V1.pdf" target="_blank">盤查教育訓練 Scope 3 C1 採購商品與服務 V1</a></h2>
+        </td>
+        <td>
         </td>
     </tr>
 </table>
