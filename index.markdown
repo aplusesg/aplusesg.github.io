@@ -52,4 +52,24 @@ layout: homepage
             <h2><a href="/upload/盤查教育訓練-Scope-3-C2-中文-V1.pdf" target="_blank">盤查教育訓練 Scope 3 C2 採購資本財 V1</a></h2>
         </td>
     </tr>
+    <tr>
+        <td>
+            <h1>盤查教育訓練 Scope 3 C3 採購燃料與能源相關活動</h1>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/9HEP-70ixTw?si=a7aHiRM1qeGHDHOL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+            <h2>1. 如果無法正確播放以上影片請點擊以下連結下載或瀏覽</h2>
+            <h2><a href="https://www.asuswebstorage.com/navigate/a/#/s/872BF444A74A439BB64BAEB98911938BY" target="_blank">盤查教育訓練 Scope 3 C3 採購燃料與能源相關活動</a></h2>
+            <h2>2. 簡報檔請點擊以下連結瀏覽或下載</h2>
+            <h2><a href="/upload/盤查教育訓練-Scope-3-C3-中文-V1.pdf" target="_blank">盤查教育訓練 Scope 3 C3 採購燃料與能源相關活動 V1</a></h2>
+        </td>
+        <td>
+            <h1>盤查教育訓練 Scope 3 C4 上游運輸與配送</h1>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/LFtlVzmWQaU?si=YSH5YG1NUZ0nz4u8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+            <h2>1. 如果無法正確播放以上影片請點擊以下連結下載或瀏覽</h2>
+            <h2><a href="https://www.asuswebstorage.com/navigate/a/#/s/0048224625ED4147A26C6BE9163B60F5Y" target="_blank">盤查教育訓練 Scope 3 C4 上游運輸與配送</a></h2>
+            <h2>2. 簡報檔請點擊以下連結瀏覽或下載</h2>
+            <h2><a href="/upload/盤查教育訓練-Scope-3-C4-中文-V1.pdf" target="_blank">盤查教育訓練 Scope 3 C4 上游運輸與配送 V1</a></h2>
+        </td>
+    </tr>
 </table>
