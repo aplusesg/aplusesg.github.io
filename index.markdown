@@ -72,4 +72,24 @@ layout: homepage
             <h2><a href="/upload/盤查教育訓練-Scope-3-C4-中文-V1.pdf" target="_blank">盤查教育訓練 Scope 3 C4 上游運輸與配送 V1</a></h2>
         </td>
     </tr>
+    <tr>
+        <td>
+            <h1>盤查教育訓練 Scope 3 C6 員工差旅</h1>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/8sjJtPojdMQ?si=HaQ1TPH1pci0W7vQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+            <h2>1. 如果無法正確播放以上影片請點擊以下連結下載或瀏覽</h2>
+            <h2><a href="https://www.asuswebstorage.com/navigate/a/#/s/19DA13D9F8EE4C94BDFF9F4699C683E2Y" target="_blank">盤查教育訓練 Scope 3 C6 員工差旅</a></h2>
+            <h2>2. 簡報檔請點擊以下連結瀏覽或下載</h2>
+            <h2><a href="/upload/盤查教育訓練-Scope-3-C6-中文-V1.pdf" target="_blank">盤查教育訓練 Scope 3 C6 員工差旅 V1</a></h2>
+        </td>
+        <td>
+            <h1>盤查教育訓練 Scope 3 C7 員工通勤</h1>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/72F5TjBoS3s?si=1tQutTChl5KdQCJj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+            <h2>1. 如果無法正確播放以上影片請點擊以下連結下載或瀏覽</h2>
+            <h2><a href="https://www.asuswebstorage.com/navigate/a/#/s/082D9EC44B76496BB27C606E1DC00ACDY" target="_blank">盤查教育訓練 Scope 3 C7 員工通勤</a></h2>
+            <h2>2. 簡報檔請點擊以下連結瀏覽或下載</h2>
+            <h2><a href="/upload/盤查教育訓練-Scope-3-C7-中文-V1.pdf" target="_blank">盤查教育訓練 Scope 3 C7 員工通勤 V1</a></h2>
+        </td>
+    </tr>
 </table>
