@@ -44,11 +44,11 @@ layout: homepage
             <div style="height:96px;">
                 <h1>盤查教育訓練 Scope 3 C1 採購商品與服務</h1>
             </div>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/R7B6Ce94N14?si=iusGqsJfFqueN3oq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/IpeK6Y94KL8?si=0-eh6TPlxlHfu3Bx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
             <div style="height:300px;">
                 <h2>1. 如果無法正確播放以上影片請點擊以下連結下載或瀏覽</h2>
-                <h2><a href="https://www.asuswebstorage.com/navigate/a/#/s/9C37F24048C1423AB0F820EE09262ECBY" target="_blank">盤查教育訓練 Scope 3 C1 採購商品與服務</a></h2>
+                <h2><a href="https://www.asuswebstorage.com/navigate/a/#/s/5DD9442C82914051A77DCFB777DE9E89Y" target="_blank">盤查教育訓練 Scope 3 C1 採購商品與服務</a></h2>
                 <h2>2. 簡報檔請點擊以下連結瀏覽或下載</h2>
                 <h2><a href="/upload/盤查教育訓練-Scope-3-C1-中文-V1.pdf" target="_blank">盤查教育訓練 Scope 3 C1 採購商品與服務 V1</a></h2>
             </div>
@@ -98,6 +98,19 @@ layout: homepage
     <tr>
         <td>
             <div style="height:96px;">
+                <h1>盤查教育訓練 Scope 3 C5 營運廢棄物</h1>
+            </div>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/3VcLClofHlM?si=ZoViT6BidKJoIK3H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+            <div style="height:300px;">
+                <h2>1. 如果無法正確播放以上影片請點擊以下連結下載或瀏覽</h2>
+                <h2><a href="https://www.asuswebstorage.com/navigate/a/#/s/40337191F8AF4582AB94E53CFE0DB423Y" target="_blank">盤查教育訓練 Scope 3 C5 營運廢棄物</a></h2>
+                <h2>2. 簡報檔請點擊以下連結瀏覽或下載</h2>
+                <h2><a href="/upload/盤查教育訓練-Scope-3-C5-中文-V1.pdf" target="_blank">盤查教育訓練 Scope 3 C5 營運廢棄物 V1</a></h2>
+            </div>
+        </td>
+        <td>
+            <div style="height:96px;">
                 <h1>盤查教育訓練 Scope 3 C6 員工差旅</h1>
             </div>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/8sjJtPojdMQ?si=HaQ1TPH1pci0W7vQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -109,6 +122,7 @@ layout: homepage
                 <h2><a href="/upload/盤查教育訓練-Scope-3-C6-中文-V1.pdf" target="_blank">盤查教育訓練 Scope 3 C6 員工差旅 V1</a></h2>
             </div>
         </td>
+    </tr>
         <td>
             <div style="height:96px;">
                 <h1>盤查教育訓練 Scope 3 C7 員工通勤</h1>
@@ -122,7 +136,19 @@ layout: homepage
                 <h2><a href="/upload/盤查教育訓練-Scope-3-C7-中文-V1.pdf" target="_blank">盤查教育訓練 Scope 3 C7 員工通勤 V1</a></h2>
             </div>
         </td>
-    </tr>
+        <td>
+            <div style="height:96px;">
+                <h1>盤查教育訓練 Scope 3 C11 售出產品之使用</h1>
+            </div>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/Sqzv6cTvxZw?si=x-hs8xNXDcd4NmSB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+            <div style="height:300px;">
+                <h2>1. 如果無法正確播放以上影片請點擊以下連結下載或瀏覽</h2>
+                <h2><a href="https://www.asuswebstorage.com/navigate/a/#/s/98F52631D97C4AE19365256E97F44806Y" target="_blank">盤查教育訓練 Scope 3 C11 售出產品之使用</a></h2>
+                <h2>2. 簡報檔請點擊以下連結瀏覽或下載</h2>
+                <h2><a href="/upload/盤查教育訓練-Scope-3-C11-中文-V1.pdf" target="_blank">盤查教育訓練 Scope 3 C11 售出產品之使用 V1</a></h2>
+            </div>
+        </td>
     <tr>
         <td>
             <div style="height:96px;">
