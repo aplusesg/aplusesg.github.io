@@ -123,6 +123,7 @@ layout: homepage
             </div>
         </td>
     </tr>
+    <tr>
         <td>
             <div style="height:96px;">
                 <h1>盤查教育訓練 Scope 3 C7 員工通勤</h1>
@@ -138,9 +139,52 @@ layout: homepage
         </td>
         <td>
             <div style="height:96px;">
+                <h1>盤查教育訓練 Scope 3 C8 上游租賃資產</h1>
+            </div>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/5WiX6GOPMtg?si=XMhgknucyf3rwm3P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+            <div style="height:300px;">
+                <h2>1. 如果無法正確播放以上影片請點擊以下連結下載或瀏覽</h2>
+                <h2><a href="https://www.asuswebstorage.com/navigate/a/#/s/3D4D9685A96548FBBB6EF523F68DC315Y" target="_blank">盤查教育訓練 Scope 3 C8 上游租賃資產</a></h2>
+                <h2>2. 簡報檔請點擊以下連結瀏覽或下載</h2>
+                <h2><a href="/upload/盤查教育訓練-Scope-3-C11-中文-V1.pdf" target="_blank">盤查教育訓練 Scope 3 C8 上游租賃資產 V1</a></h2>
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <div style="height:96px;">
+                <h1>盤查教育訓練 Scope 3 C9 下游運輸與配送</h1>
+            </div>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/rjwb_3WpKNY?si=-18ljvuic1BDdA_G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+            <div style="height:300px;">
+                <h2>1. 如果無法正確播放以上影片請點擊以下連結下載或瀏覽</h2>
+                <h2><a href="https://www.asuswebstorage.com/navigate/a/#/s/6FC76DEB0037425C9AC95C59C3E2DD6CY" target="_blank">盤查教育訓練 Scope 3 C9 下游運輸與配送</a></h2>
+                <h2>2. 簡報檔請點擊以下連結瀏覽或下載</h2>
+                <h2><a href="/upload/盤查教育訓練-Scope-3-C11-中文-V1.pdf" target="_blank">盤查教育訓練 Scope 3 C9 下游運輸與配送 V1</a></h2>
+            </div>
+        </td>
+        <td>
+            <div style="height:96px;">
+                <h1>盤查教育訓練 Scope 3 C10 銷售產品加工</h1>
+            </div>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/XzuQDYOEbyI?si=c1PyNNdeg4kY2dl6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+            <div style="height:300px;">
+                <h2>1. 如果無法正確播放以上影片請點擊以下連結下載或瀏覽</h2>
+                <h2><a href="https://www.asuswebstorage.com/navigate/a/#/s/E2A02367F02F496A90809C51F3E0F9E4Y" target="_blank">盤查教育訓練 Scope 3 C10 銷售產品加工</a></h2>
+                <h2>2. 簡報檔請點擊以下連結瀏覽或下載</h2>
+                <h2><a href="/upload/盤查教育訓練-Scope-3-C11-中文-V1.pdf" target="_blank">盤查教育訓練 Scope 3 C10 銷售產品加工 V1</a></h2>
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <div style="height:96px;">
                 <h1>盤查教育訓練 Scope 3 C11 售出產品之使用</h1>
             </div>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/Sqzv6cTvxZw?si=x-hs8xNXDcd4NmSB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/Sqzv6cTvxZw?si=QoXVP3MLVVh46v6A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
             <div style="height:300px;">
                 <h2>1. 如果無法正確播放以上影片請點擊以下連結下載或瀏覽</h2>
@@ -149,6 +193,48 @@ layout: homepage
                 <h2><a href="/upload/盤查教育訓練-Scope-3-C11-中文-V1.pdf" target="_blank">盤查教育訓練 Scope 3 C11 售出產品之使用 V1</a></h2>
             </div>
         </td>
+        <td>
+            <div style="height:96px;">
+                <h1>盤查教育訓練 Scope 3 C12 銷售產品最終處理</h1>
+            </div>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/F4nEUAyw40o?si=VIJx3sid0fFOlkiI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+            <div style="height:300px;">
+                <h2>1. 如果無法正確播放以上影片請點擊以下連結下載或瀏覽</h2>
+                <h2><a href="https://www.asuswebstorage.com/navigate/a/#/s/2CBEBDDD418B4222AAC801469DD8C1F1Y" target="_blank">盤查教育訓練 Scope 3 C12 銷售產品最終處理</a></h2>
+                <h2>2. 簡報檔請點擊以下連結瀏覽或下載</h2>
+                <h2><a href="/upload/盤查教育訓練-Scope-3-C11-中文-V1.pdf" target="_blank">盤查教育訓練 Scope 3 C12 銷售產品最終處理 V1</a></h2>
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <div style="height:96px;">
+                <h1>盤查教育訓練 Scope 3 C13 下游租賃資產</h1>
+            </div>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/TJn5Pt7Qie8?si=bEz1TgRCbbsYcl7b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+            <div style="height:300px;">
+                <h2>1. 如果無法正確播放以上影片請點擊以下連結下載或瀏覽</h2>
+                <h2><a href="https://www.asuswebstorage.com/navigate/a/#/s/71AA117600DB4D6ABDBEE368FCE883B2Y" target="_blank">盤查教育訓練 Scope 3 C13 下游租賃資產</a></h2>
+                <h2>2. 簡報檔請點擊以下連結瀏覽或下載</h2>
+                <h2><a href="/upload/盤查教育訓練-Scope-3-C11-中文-V1.pdf" target="_blank">盤查教育訓練 Scope 3 C13 下游租賃資產 V1</a></h2>
+            </div>
+        </td>
+        <td>
+            <div style="height:96px;">
+                <h1>盤查教育訓練 Scope 3 C14 特許經銷</h1>
+            </div>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/QNonEEyntQw?si=I_UAhWx8AkXTFAPf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+            <div style="height:300px;">
+                <h2>1. 如果無法正確播放以上影片請點擊以下連結下載或瀏覽</h2>
+                <h2><a href="https://www.asuswebstorage.com/navigate/a/#/s/9095032A895D4340BD24821C35505394Y" target="_blank">盤查教育訓練 Scope 3 C14 特許經銷</a></h2>
+                <h2>2. 簡報檔請點擊以下連結瀏覽或下載</h2>
+                <h2><a href="/upload/盤查教育訓練-Scope-3-C11-中文-V1.pdf" target="_blank">盤查教育訓練 Scope 3 C14 特許經銷 V1</a></h2>
+            </div>
+        </td>
+    </tr>
     <tr>
         <td>
             <div style="height:96px;">
