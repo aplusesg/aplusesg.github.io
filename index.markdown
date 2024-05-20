@@ -147,7 +147,7 @@ layout: homepage
                 <h2>1. 如果無法正確播放以上影片請點擊以下連結下載或瀏覽</h2>
                 <h2><a href="https://www.asuswebstorage.com/navigate/a/#/s/3D4D9685A96548FBBB6EF523F68DC315Y" target="_blank">盤查教育訓練 Scope 3 C8 上游租賃資產</a></h2>
                 <h2>2. 簡報檔請點擊以下連結瀏覽或下載</h2>
-                <h2><a href="/upload/盤查教育訓練-Scope-3-C11-中文-V1.pdf" target="_blank">盤查教育訓練 Scope 3 C8 上游租賃資產 V1</a></h2>
+                <h2><a href="/upload/盤查教育訓練-Scope-3-C8-中文-V1.pdf" target="_blank">盤查教育訓練 Scope 3 C8 上游租賃資產 V1</a></h2>
             </div>
         </td>
     </tr>
@@ -162,7 +162,7 @@ layout: homepage
                 <h2>1. 如果無法正確播放以上影片請點擊以下連結下載或瀏覽</h2>
                 <h2><a href="https://www.asuswebstorage.com/navigate/a/#/s/6FC76DEB0037425C9AC95C59C3E2DD6CY" target="_blank">盤查教育訓練 Scope 3 C9 下游運輸與配送</a></h2>
                 <h2>2. 簡報檔請點擊以下連結瀏覽或下載</h2>
-                <h2><a href="/upload/盤查教育訓練-Scope-3-C11-中文-V1.pdf" target="_blank">盤查教育訓練 Scope 3 C9 下游運輸與配送 V1</a></h2>
+                <h2><a href="/upload/盤查教育訓練-Scope-3-C9-中文-V1.pdf" target="_blank">盤查教育訓練 Scope 3 C9 下游運輸與配送 V1</a></h2>
             </div>
         </td>
         <td>
@@ -175,7 +175,7 @@ layout: homepage
                 <h2>1. 如果無法正確播放以上影片請點擊以下連結下載或瀏覽</h2>
                 <h2><a href="https://www.asuswebstorage.com/navigate/a/#/s/E2A02367F02F496A90809C51F3E0F9E4Y" target="_blank">盤查教育訓練 Scope 3 C10 銷售產品加工</a></h2>
                 <h2>2. 簡報檔請點擊以下連結瀏覽或下載</h2>
-                <h2><a href="/upload/盤查教育訓練-Scope-3-C11-中文-V1.pdf" target="_blank">盤查教育訓練 Scope 3 C10 銷售產品加工 V1</a></h2>
+                <h2><a href="/upload/盤查教育訓練-Scope-3-C10-中文-V1.pdf" target="_blank">盤查教育訓練 Scope 3 C10 銷售產品加工 V1</a></h2>
             </div>
         </td>
     </tr>
@@ -203,7 +203,7 @@ layout: homepage
                 <h2>1. 如果無法正確播放以上影片請點擊以下連結下載或瀏覽</h2>
                 <h2><a href="https://www.asuswebstorage.com/navigate/a/#/s/2CBEBDDD418B4222AAC801469DD8C1F1Y" target="_blank">盤查教育訓練 Scope 3 C12 銷售產品最終處理</a></h2>
                 <h2>2. 簡報檔請點擊以下連結瀏覽或下載</h2>
-                <h2><a href="/upload/盤查教育訓練-Scope-3-C11-中文-V1.pdf" target="_blank">盤查教育訓練 Scope 3 C12 銷售產品最終處理 V1</a></h2>
+                <h2><a href="/upload/盤查教育訓練-Scope-3-C12-中文-V1.pdf" target="_blank">盤查教育訓練 Scope 3 C12 銷售產品最終處理 V1</a></h2>
             </div>
         </td>
     </tr>
@@ -218,7 +218,7 @@ layout: homepage
                 <h2>1. 如果無法正確播放以上影片請點擊以下連結下載或瀏覽</h2>
                 <h2><a href="https://www.asuswebstorage.com/navigate/a/#/s/71AA117600DB4D6ABDBEE368FCE883B2Y" target="_blank">盤查教育訓練 Scope 3 C13 下游租賃資產</a></h2>
                 <h2>2. 簡報檔請點擊以下連結瀏覽或下載</h2>
-                <h2><a href="/upload/盤查教育訓練-Scope-3-C11-中文-V1.pdf" target="_blank">盤查教育訓練 Scope 3 C13 下游租賃資產 V1</a></h2>
+                <h2><a href="/upload/盤查教育訓練-Scope-3-C13-中文-V1.pdf" target="_blank">盤查教育訓練 Scope 3 C13 下游租賃資產 V1</a></h2>
             </div>
         </td>
         <td>
@@ -231,7 +231,7 @@ layout: homepage
                 <h2>1. 如果無法正確播放以上影片請點擊以下連結下載或瀏覽</h2>
                 <h2><a href="https://www.asuswebstorage.com/navigate/a/#/s/9095032A895D4340BD24821C35505394Y" target="_blank">盤查教育訓練 Scope 3 C14 特許經銷</a></h2>
                 <h2>2. 簡報檔請點擊以下連結瀏覽或下載</h2>
-                <h2><a href="/upload/盤查教育訓練-Scope-3-C11-中文-V1.pdf" target="_blank">盤查教育訓練 Scope 3 C14 特許經銷 V1</a></h2>
+                <h2><a href="/upload/盤查教育訓練-Scope-3-C14-中文-V1.pdf" target="_blank">盤查教育訓練 Scope 3 C14 特許經銷 V1</a></h2>
             </div>
         </td>
     </tr>
