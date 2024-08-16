@@ -253,3 +253,12 @@ layout: homepage
         </td>
     </tr>
 </table>
+<h1>供應商 華碩碳數據管理平台第一梯次教育訓練簡報&常見問與答集</h1>
+<table>
+    <tr>
+        <td>
+            <h2><a href="/upload/華碩碳數據管理平台供應商第一梯次教育訓練簡報.pdf" target="_blank">供應商_華碩碳數據管理平台第一梯次教育訓練簡報</a></h2>
+            <h2><a href="/upload/華碩碳數據管理平台供應商第一梯次教育訓練問與答_final.pdf" target="_blank">華碩碳數據管理平台供應商第一梯次教育訓練問與答_final</a></h2>
+        </td>
+    </tr>
+</table>
