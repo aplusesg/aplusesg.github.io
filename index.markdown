@@ -10,11 +10,19 @@ layout: homepage
 <div style="height:50px;"><h1 style="padding: 0 0 0 15px; align-items: center;"><a href="/en/index">English Version</a></h1></div>
 </div>
 
-<h1>供應商 華碩碳數據管理平台第三梯次教育訓練簡報&常見問與答集</h1>
 <table>
     <tr>
         <td>
-            <h2><a href="/upload/供應商_華碩碳數據管理平台教育訓練簡報.pdf" target="_blank">供應商_華碩碳數據管理平台教育訓練簡報</a></h2>
+            <div style="height:96px;">
+                <h1>華碩碳數據管理平台供應商第三梯次教育訓練簡報&常見問與答集</h1>
+            </div>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/3CKIu2Zf0Ks?si=Yj1PCKpxpWVu-4Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            <div style="height:300px;">
+                <h2>1. 如果無法正確播放以上影片請點擊以下連結下載或瀏覽</h2>
+                <h2><a href="https://www.asuswebstorage.com/navigate/a/#/s/8E9038EFE8D64F1696B89BE5CD6F1B92Y" target="_blank">供應商_華碩碳數據管理平台教育訓</a></h2>
+                <h2>2. 簡報檔請點擊以下連結瀏覽或下載</h2>
+                <h2><a href="/upload/供應商_華碩碳數據管理平台教育訓練簡報.pdf" target="_blank">供應商_華碩碳數據管理平台教育訓</a></h2>
+            </div>
         </td>
     </tr>
 </table>
