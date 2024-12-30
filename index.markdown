@@ -44,7 +44,7 @@ layout: homepage
                 <h2>1. 如果無法正確播放以上影片請點擊以下連結下載或瀏覽</h2>
                 <h2><a href="https://www.asuswebstorage.com/navigate/a/#/s/D96B867A09F44D9A95BDD29CB8A64EDDY" target="_blank">華碩碳數據管理平台教育訓練</a></h2>
                 <h2>2. 簡報檔請點擊以下連結瀏覽或下載</h2>
-                <h2><a href="/upload/華碩碳數據管理平台供應商上線教育訓練_20241223.pdf" target="_blank">供應商_華碩碳數據管理平台教育訓</a></h2>
+                <h2><a href="/upload/華碩碳數據管理平台供應商上線教育訓練_20241223.pdf" target="_blank">華碩碳數據管理平台教育訓練簡報&常見問與答集</a></h2>
             </div>
         </td>
     </tr>
