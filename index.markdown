@@ -17,7 +17,7 @@ layout: homepage
                 <h1>使用者平台連線常見問題集</h1>
             </div>
             <div>
-                <h2>2. 簡報檔請點擊以下連結瀏覽或下載</h2>
+                <h2>簡報檔請點擊以下連結瀏覽或下載</h2>
                 <h2><a href="/upload/使用者常見問題集.pdf" target="_blank">使用者平台連線常見問題集</a></h2>
             </div>
         </td>
