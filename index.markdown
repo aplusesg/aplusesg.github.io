@@ -37,14 +37,14 @@ layout: homepage
         </td>
         <td>
             <div style="height:96px;">
-                <h1>華碩碳數據管理平台教育訓練簡報&常見問與答集</h1>
+                <h1>華碩碳數據管理平台供應商第五梯次教育訓練&常見問與答集</h1>
             </div>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/i7avFq9ytHY?si=QxCfCcVJlQ2T0_Xs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
             <div style="height:300px;">
                 <h2>1. 如果無法正確播放以上影片請點擊以下連結下載或瀏覽</h2>
-                <h2><a href="https://www.asuswebstorage.com/navigate/a/#/s/D96B867A09F44D9A95BDD29CB8A64EDDY" target="_blank">華碩碳數據管理平台教育訓練</a></h2>
+                <h2><a href="https://www.asuswebstorage.com/navigate/a/#/s/D96B867A09F44D9A95BDD29CB8A64EDDY" target="_blank">華碩碳數據管理平台供應商第五梯次教育訓練影片</a></h2>
                 <h2>2. 簡報檔請點擊以下連結瀏覽或下載</h2>
-                <h2><a href="/upload/華碩碳數據管理平台供應商上線教育訓練_20241223.pdf" target="_blank">華碩碳數據管理平台教育訓練簡報&常見問與答集</a></h2>
+                <h2><a href="/upload/華碩碳數據管理平台供應商上線教育訓練_20241231.pdf" target="_blank">華碩碳數據管理平台供應商第五梯次教育訓練簡報&常見問與答集</a></h2>
             </div>
         </td>
     </tr>
